@@ -19,7 +19,8 @@
     "react-scripts": "3.4.1",
     "request": "^2.88.2",
     "resolve-url": "^0.2.1",
-    "urix": "^0.1.0"
+    "urix": "^0.1.0",
+    "websocket-extensions": "^0.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
