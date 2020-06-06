@@ -20,6 +20,8 @@ const CountryPicker = () => {
     <FormControl className={styles.FormControl}>
       <NativeSelect>
         <option value="global">Global</option>
+        <option value="global">Test1</option>
+        <option value="global">Test2</option>
       </NativeSelect>
     </FormControl>
   );
