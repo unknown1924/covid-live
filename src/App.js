@@ -20,6 +20,9 @@ export default class App extends React.Component {
 
     return (
       <div className={styles.container}>
+        <div>
+          <p> This is still in developement stage. </p>
+        </div>
         <img className={styles.logo} src={reactLogo} atl="React-logo" />
         <Cards data={data} />
         <CountryPicker />
