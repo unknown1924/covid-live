@@ -25,7 +25,7 @@ export default class App extends React.Component {
         </div>
         <img className={styles.logo} src={reactLogo} atl="React-logo" />
         <Cards data={data} />
-        <CountryPicker />
+          <!-- <CountryPicker /> -->
         <br />
         <Chart />
       </div>
