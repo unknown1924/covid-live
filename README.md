@@ -1,6 +1,6 @@
 ## Preview
-[Preview](https://imgur.com/p7NbJLe.png)
-[Preview](https://imgur.com/kzO4D5s.png)
+[Imgur](https://i.imgur.com/p7NbJLe.png)
+[Imgur](https://i.imgur.com/kzO4D5s.png)
 
 ## How to use
 1. Clone/Download the repo.
